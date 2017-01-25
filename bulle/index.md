@@ -70,10 +70,8 @@ faire entendre !</p>
 
 <h2>Bullez, Communiquez !</h2>
 
-<p>Décrétée meilleure solution de communication alternative par nos experts <br/>
-depuis les signaux de fumée amérindiens, <br/>
-Bulle vous offre l’opportunité de créer votre propre langage codé ! <br/>
-Une bulle : un café, deux bulles : un meeting ? À vous de jouer !</p>
+<p>Décrétée meilleure solution de communication alternative par nos experts depuis les signaux de fumée amérindiens, </p>
+<p>Bulle vous offre l’opportunité de créer votre propre langage codé ! Une bulle : un café, deux bulles : un meeting ? À vous de jouer !</p>
 
 <div class="quote">
 
