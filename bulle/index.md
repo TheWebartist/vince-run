@@ -69,7 +69,8 @@ title: Bulle by Vince
 <h2>Bullez, Communiquez !</h2>
 
 <p>Décrétée meilleure solution de communication alternative par nos experts depuis les signaux de fumée amérindiens, </p>
-<p>Bulle vous offre l’opportunité de créer votre propre langage codé ! Une bulle : un café, deux bulles : un meeting ? À vous de jouer !</p>
+<p>Bulle vous offre l’opportunité de créer votre propre langage codé ! </p>
+<p>Une bulle : un café, deux bulles : un meeting ? À vous de jouer !</p>
 
 <div class="quote">
 
