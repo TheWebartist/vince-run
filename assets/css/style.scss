@@ -384,12 +384,28 @@ $bulle-content-max-width: 900px;
                         flex-direction: row-reverse;
                     }
 
+                    p
+                    {
+                        max-width: 460px;
+                    }
+
                 }
 
             }
 
             &:nth-child(3) {
                 padding: 24px 0;
+
+                .infos
+                {
+
+                    p
+                    {
+                        max-width: 524px;
+                    }
+
+                }
+
             }
 
         }
