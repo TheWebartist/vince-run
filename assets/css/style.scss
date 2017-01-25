@@ -495,7 +495,7 @@ $bulle-content-max-width: 900px;
 
                     .infos
                     {
-                        margin: 0 0 0 50px;
+                        margin: 0 0 0 42px;
                     }
 
                 }
@@ -508,7 +508,7 @@ $bulle-content-max-width: 900px;
 
 }
 
-@media screen and (max-width: 600px)
+@media screen and (max-width: 640px)
 {
 
     @mixin small-feature-style() {
