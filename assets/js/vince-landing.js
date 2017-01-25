@@ -94,7 +94,7 @@ if($contactForm != null) {
       							}]
       					};
 
-      			Api.slackIt("https://hooks.slack.com/services/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", payload);
+      			//Api.slackIt("https://hooks.slack.com/services/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", payload);
 
     		}, function(err) {
     			// the "err" object contains useful information in case of an error
@@ -153,7 +153,7 @@ UserInfo.getInfo(function(data) {
             }]
         };
 
-    Api.slackIt("https://hooks.slack.com/services/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", payload);
+    //Api.slackIt("https://hooks.slack.com/services/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", payload);
 
 }, function(err) {
   // the "err" object contains useful information in case of an error
