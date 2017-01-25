@@ -22,9 +22,8 @@ title: Bulle by Vince
 
 <h2>UN VÉRITABLE OBJET CONNECTÉ</h2>
 
-<p>Fini le temps des « Chacun dans sa bulle » ! <br/> 
-Rassemblez vos amis/collègues, saisissez votre Bulle, <br/>
-et créez un nouveau réseau social IRL.</p>
+<p>Fini le temps des « Chacun dans sa bulle » ! </p> 
+<p>Rassemblez vos amis/collègues, saisissez votre Bulle, et créez un nouveau réseau social IRL.</p>
 
 <div class="quote">
 
@@ -46,9 +45,8 @@ et créez un nouveau réseau social IRL.</p>
 
 <h2>DES BULLES QUI BUZZENT</h2>
 
-<p>Une réunion qui s’éternise ? Un powerpoint qui devient gênant ? <br/> 
-Il est temps de prendre les choses en main, et de Buller pour vous <br/>
-faire entendre !</p>
+<p>Une réunion qui s’éternise ? Un powerpoint qui devient gênant ? </p> 
+<p>Il est temps de prendre les choses en main, et de Buller pour vous faire entendre !</p>
 
 <div class="quote">
 
