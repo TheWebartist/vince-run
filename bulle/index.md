@@ -46,8 +46,9 @@ et créez un nouveau réseau social IRL.</p>
 
 <h2>DES BULLES QUI BUZZENT</h2>
 
-<p>Une réunion qui s’éternise ? Un powerpoint qui devient gênant ? <p/> 
-<p>Il est temps de prendre les choses en main, et de Buller pour vous faire entendre !</p>
+<p>Une réunion qui s’éternise ? Un powerpoint qui devient gênant ? <br/> 
+Il est temps de prendre les choses en main, et de Buller pour vous <br/>
+faire entendre !</p>
 
 <div class="quote">
 
